@@ -1,6 +1,7 @@
-- Belajar pemrograman web dan konsisten
+- Belajar pemrograman web dan konsisten 
 - Belajar Android 
 - Konsisten Belajar 
 - Ingin belajar UI/UX
 - Ingin Belajar JavaScript
+- Menguasai Flutter
 - Semoga aku bisa >_<
